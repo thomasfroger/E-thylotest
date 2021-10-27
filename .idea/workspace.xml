@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33081737-d8ce-457d-b6df-d513c02e2acf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chads.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/Chads.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chads.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Chads.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635288176838</updated>
       <workItem from="1635288179414" duration="6000" />
-      <workItem from="1635331726784" duration="1503000" />
+      <workItem from="1635331726784" duration="1815000" />
     </task>
     <servers />
   </component>
