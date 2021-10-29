@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33081737-d8ce-457d-b6df-d513c02e2acf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/PikPng.com_security-guard-png_1440920.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kisspng-recycling-symbol-logo-sustainable-development-recyclable-5b223b38f2ca87.7938902315289700409945.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,7 @@
       <workItem from="1635375847719" duration="31000" />
       <workItem from="1635405939436" duration="1960000" />
       <workItem from="1635439105866" duration="1992000" />
+      <workItem from="1635497355485" duration="393000" />
     </task>
     <servers />
   </component>
