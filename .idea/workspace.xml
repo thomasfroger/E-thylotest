@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33081737-d8ce-457d-b6df-d513c02e2acf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Double Montre.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Logo 1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Logo 2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Matos.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Montre2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Simplemontre.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Tel.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/showcase-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/showcase-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/watch-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/watch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +65,7 @@
       <workItem from="1635497355485" duration="393000" />
       <workItem from="1635508315540" duration="2109000" />
       <workItem from="1635672172652" duration="1381000" />
+      <workItem from="1636214498092" duration="1001000" />
     </task>
     <servers />
   </component>
