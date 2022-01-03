@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="33081737-d8ce-457d-b6df-d513c02e2acf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profil.html" beforeDir="false" afterPath="$PROJECT_DIR$/profil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +49,16 @@
       <recent name="C:\Users\thoma\Desktop\EFREI\E-thylotest\css" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/E-thylotest/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +82,13 @@
       <workItem from="1636529414172" duration="53000" />
       <workItem from="1636529593109" duration="256000" />
       <workItem from="1636552556838" duration="250000" />
+      <workItem from="1636974304334" duration="602000" />
+      <workItem from="1637306605950" duration="329000" />
+      <workItem from="1639657345018" duration="47000" />
+      <workItem from="1639663012861" duration="137000" />
+      <workItem from="1639752940336" duration="56000" />
+      <workItem from="1639951034646" duration="193000" />
+      <workItem from="1641053152673" duration="1621000" />
     </task>
     <servers />
   </component>
